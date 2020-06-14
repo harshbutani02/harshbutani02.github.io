@@ -1,0 +1,53 @@
+﻿body
+{
+    font-size: 16px;
+    color: #fff;
+    background-color: red;
+}
+
+button {
+    float: right;
+}
+
+#navbarNavDropdown {
+    margin: auto;
+    width: 100%;
+}
+
+.navbar-header {
+    width: 100%;
+}
+
+#header-nav {
+    border-radius: 0;
+    border: 5px solid black;
+}
+
+#header-nav > div.container {
+    margin-left: 0;
+}
+
+div.main-content {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    max-width: 1300px;
+}
+
+div.chicken, div.beef, div.sushi {
+    background-color: #333333;
+    border: 5px solid white;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+#chicken {
+    color: cyan;
+}
+
+#beef {
+    color: yellow;
+}
+
+#sushi {
+    color: darkseagreen;
+}
